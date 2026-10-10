@@ -1,0 +1,124 @@
+{
+  "": {
+    "swift-dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/master.swiftdeps"
+  },
+  "/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/BackupVerifierTests.swift": {
+    "dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/BackupVerifierTests.d",
+    "object": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/BackupVerifierTests.swift.o",
+    "swiftmodule": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/BackupVerifierTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/BackupVerifierTests.swiftdeps",
+    "diagnostics": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/BackupVerifierTests.dia"
+  },
+  "/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/DestinationValidatorTests.swift": {
+    "dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/DestinationValidatorTests.d",
+    "object": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/DestinationValidatorTests.swift.o",
+    "swiftmodule": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/DestinationValidatorTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/DestinationValidatorTests.swiftdeps",
+    "diagnostics": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/DestinationValidatorTests.dia"
+  },
+  "/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/FirstBackupTests.swift": {
+    "dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/FirstBackupTests.d",
+    "object": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/FirstBackupTests.swift.o",
+    "swiftmodule": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/FirstBackupTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/FirstBackupTests.swiftdeps",
+    "diagnostics": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/FirstBackupTests.dia"
+  },
+  "/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/IncrementalBackupTests.swift": {
+    "dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/IncrementalBackupTests.d",
+    "object": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/IncrementalBackupTests.swift.o",
+    "swiftmodule": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/IncrementalBackupTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/IncrementalBackupTests.swiftdeps",
+    "diagnostics": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/IncrementalBackupTests.dia"
+  },
+  "/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/InterruptionTests.swift": {
+    "dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/InterruptionTests.d",
+    "object": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/InterruptionTests.swift.o",
+    "swiftmodule": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/InterruptionTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/InterruptionTests.swiftdeps",
+    "diagnostics": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/InterruptionTests.dia"
+  },
+  "/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/LibimobiledeviceEngineTests.swift": {
+    "dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/LibimobiledeviceEngineTests.d",
+    "object": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/LibimobiledeviceEngineTests.swift.o",
+    "swiftmodule": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/LibimobiledeviceEngineTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/LibimobiledeviceEngineTests.swiftdeps",
+    "diagnostics": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/LibimobiledeviceEngineTests.dia"
+  },
+  "/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/LocalizationTests.swift": {
+    "dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/LocalizationTests.d",
+    "object": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/LocalizationTests.swift.o",
+    "swiftmodule": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/LocalizationTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/LocalizationTests.swiftdeps",
+    "diagnostics": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/LocalizationTests.dia"
+  },
+  "/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/OriginSnapshotTests.swift": {
+    "dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/OriginSnapshotTests.d",
+    "object": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/OriginSnapshotTests.swift.o",
+    "swiftmodule": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/OriginSnapshotTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/OriginSnapshotTests.swiftdeps",
+    "diagnostics": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/OriginSnapshotTests.dia"
+  },
+  "/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/PerDeviceDestinationTests.swift": {
+    "dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/PerDeviceDestinationTests.d",
+    "object": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/PerDeviceDestinationTests.swift.o",
+    "swiftmodule": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/PerDeviceDestinationTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/PerDeviceDestinationTests.swiftdeps",
+    "diagnostics": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/PerDeviceDestinationTests.dia"
+  },
+  "/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/PowerAssertionTests.swift": {
+    "dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/PowerAssertionTests.d",
+    "object": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/PowerAssertionTests.swift.o",
+    "swiftmodule": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/PowerAssertionTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/PowerAssertionTests.swiftdeps",
+    "diagnostics": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/PowerAssertionTests.dia"
+  },
+  "/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/ProcessRunnerTests.swift": {
+    "dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/ProcessRunnerTests.d",
+    "object": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/ProcessRunnerTests.swift.o",
+    "swiftmodule": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/ProcessRunnerTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/ProcessRunnerTests.swiftdeps",
+    "diagnostics": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/ProcessRunnerTests.dia"
+  },
+  "/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/ProgressParserTests.swift": {
+    "dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/ProgressParserTests.d",
+    "object": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/ProgressParserTests.swift.o",
+    "swiftmodule": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/ProgressParserTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/ProgressParserTests.swiftdeps",
+    "diagnostics": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/ProgressParserTests.dia"
+  },
+  "/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/RestoreTests.swift": {
+    "dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/RestoreTests.d",
+    "object": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/RestoreTests.swift.o",
+    "swiftmodule": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/RestoreTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/RestoreTests.swiftdeps",
+    "diagnostics": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/RestoreTests.dia"
+  },
+  "/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/StagingAreaTests.swift": {
+    "dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/StagingAreaTests.d",
+    "object": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/StagingAreaTests.swift.o",
+    "swiftmodule": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/StagingAreaTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/StagingAreaTests.swiftdeps",
+    "diagnostics": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/StagingAreaTests.dia"
+  },
+  "/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/StateStoreTests.swift": {
+    "dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/StateStoreTests.d",
+    "object": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/StateStoreTests.swift.o",
+    "swiftmodule": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/StateStoreTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/StateStoreTests.swiftdeps",
+    "diagnostics": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/StateStoreTests.dia"
+  },
+  "/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/Support/TestSupport.swift": {
+    "dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/TestSupport.d",
+    "object": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/TestSupport.swift.o",
+    "swiftmodule": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/TestSupport~partial.swiftmodule",
+    "swift-dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/TestSupport.swiftdeps",
+    "diagnostics": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/TestSupport.dia"
+  },
+  "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/resource_bundle_accessor.d",
+    "object": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/resource_bundle_accessor.swiftdeps",
+    "diagnostics": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/resource_bundle_accessor.dia"
+  }
+}

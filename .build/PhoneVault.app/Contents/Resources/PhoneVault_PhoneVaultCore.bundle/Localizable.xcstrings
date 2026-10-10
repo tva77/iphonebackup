@@ -1,0 +1,422 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "failure.deviceLocked.cause": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The iPhone is locked"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Desbloqueie o iPhone"
+          }
+        }
+      }
+    },
+    "failure.deviceLocked.action": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unlock the iPhone and try again"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Desbloqueie o iPhone e tente de novo"
+          }
+        }
+      }
+    },
+    "failure.trustDenied.cause": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trust was declined on the iPhone"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A confiança foi recusada no iPhone"
+          }
+        }
+      }
+    },
+    "failure.trustDenied.action": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unlock the iPhone, tap Trust and try again"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Desbloqueie o iPhone, toque em Confiar e tente de novo"
+          }
+        }
+      }
+    },
+    "failure.deviceDisconnected.cause": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The iPhone was disconnected"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O iPhone foi desconectado"
+          }
+        }
+      }
+    },
+    "failure.deviceDisconnected.action": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reconnect the cable and start a new backup. The last valid backup was kept."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reconecte o cabo e inicie um novo backup. O último backup válido foi mantido."
+          }
+        }
+      }
+    },
+    "failure.cancelledOnDevice.cause": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Backup cancelled on the iPhone"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Backup cancelado no iPhone"
+          }
+        }
+      }
+    },
+    "failure.cancelledOnDevice.action": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Start a new backup when ready. The last valid backup was kept."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Inicie um novo backup quando quiser. O último backup válido foi mantido."
+          }
+        }
+      }
+    },
+    "failure.destinationUnavailable.cause": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The destination folder is not available"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A pasta de destino não está disponível"
+          }
+        }
+      }
+    },
+    "failure.destinationUnavailable.action": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Connect or mount the disk or network share, then choose the folder again."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Conecte ou monte o disco ou compartilhamento e escolha a pasta de novo."
+          }
+        }
+      }
+    },
+    "failure.destinationReadOnly.cause": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The destination is read-only"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O destino é somente leitura"
+          }
+        }
+      }
+    },
+    "failure.destinationReadOnly.action": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose a folder you can write to."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Escolha uma pasta onde você possa gravar."
+          }
+        }
+      }
+    },
+    "failure.insufficientSpace.cause": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not enough free space on the destination"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Espaço insuficiente no destino"
+          }
+        }
+      }
+    },
+    "failure.insufficientSpace.action": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Free the missing space and try again."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Libere o espaço faltante e tente de novo."
+          }
+        }
+      }
+    },
+    "failure.unsupportedFileSystem.cause": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The destination file system is not supported"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O sistema de arquivos do destino não é suportado"
+          }
+        }
+      }
+    },
+    "failure.unsupportedFileSystem.action": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Use APFS, HFS+, SMB, NFS or exFAT."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Use APFS, HFS+, SMB, NFS ou exFAT."
+          }
+        }
+      }
+    },
+    "failure.wrongPassword.cause": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The backup password is wrong"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A senha do backup está errada"
+          }
+        }
+      }
+    },
+    "failure.wrongPassword.action": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enter the correct password. Without it the backup cannot be read."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Digite a senha correta. Sem ela o backup não pode ser lido."
+          }
+        }
+      }
+    },
+    "failure.untestedIOSNotConfirmed.cause": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This iOS version has not been tested"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esta versão do iOS não foi testada"
+          }
+        }
+      }
+    },
+    "failure.untestedIOSNotConfirmed.action": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Confirm to continue at your own risk."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Confirme para continuar por sua conta e risco."
+          }
+        }
+      }
+    },
+    "failure.sleepOrPowerLoss.cause": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The Mac went to sleep during the backup"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O Mac entrou em repouso durante o backup"
+          }
+        }
+      }
+    },
+    "failure.sleepOrPowerLoss.action": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keep the Mac awake and start a new backup. The last valid backup was kept."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mantenha o Mac acordado e inicie um novo backup. O último backup válido foi mantido."
+          }
+        }
+      }
+    },
+    "failure.engineCrashed.cause": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The backup engine stopped unexpectedly"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O motor de backup parou inesperadamente"
+          }
+        }
+      }
+    },
+    "failure.engineCrashed.action": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Start a new backup. The last valid backup was kept."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Inicie um novo backup. O último backup válido foi mantido."
+          }
+        }
+      }
+    },
+    "failure.verificationFailed.cause": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The new backup did not pass verification"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O novo backup não passou na verificação"
+          }
+        }
+      }
+    },
+    "failure.verificationFailed.action": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The previous backup was kept. Start a new backup."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O backup anterior foi mantido. Inicie um novo backup."
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

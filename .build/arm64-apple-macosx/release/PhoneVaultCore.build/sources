@@ -1,0 +1,15 @@
+/Users/tva/projetos/iphonebackup/Sources/PhoneVaultCore/Backup/BackupCoordinator.swift
+/Users/tva/projetos/iphonebackup/Sources/PhoneVaultCore/Backup/FailureReason+Message.swift
+/Users/tva/projetos/iphonebackup/Sources/PhoneVaultCore/Destination/DestinationValidator.swift
+/Users/tva/projetos/iphonebackup/Sources/PhoneVaultCore/Destination/StagingArea.swift
+/Users/tva/projetos/iphonebackup/Sources/PhoneVaultCore/Engine/DeviceEngine.swift
+/Users/tva/projetos/iphonebackup/Sources/PhoneVaultCore/Engine/DeviceMonitor.swift
+/Users/tva/projetos/iphonebackup/Sources/PhoneVaultCore/Engine/ProcessRunner.swift
+/Users/tva/projetos/iphonebackup/Sources/PhoneVaultCore/Engine/ProgressParser.swift
+/Users/tva/projetos/iphonebackup/Sources/PhoneVaultCore/Store/Models.swift
+/Users/tva/projetos/iphonebackup/Sources/PhoneVaultCore/Store/StateStore.swift
+/Users/tva/projetos/iphonebackup/Sources/PhoneVaultCore/System/Log.swift
+/Users/tva/projetos/iphonebackup/Sources/PhoneVaultCore/System/PowerAssertion.swift
+/Users/tva/projetos/iphonebackup/Sources/PhoneVaultCore/Verification/BackupVerifier.swift
+/Users/tva/projetos/iphonebackup/Sources/PhoneVaultCore/Verification/OriginSnapshot.swift
+/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/release/PhoneVaultCore.build/DerivedSources/resource_bundle_accessor.swift

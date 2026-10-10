@@ -1,0 +1,3 @@
+module PhoneVaultPackageTests {
+    header "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/release/PhoneVaultPackageTests.build/include/PhoneVaultPackageTests-Swift.h"
+}

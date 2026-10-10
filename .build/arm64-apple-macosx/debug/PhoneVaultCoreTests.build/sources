@@ -1,0 +1,17 @@
+/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/BackupVerifierTests.swift
+/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/DestinationValidatorTests.swift
+/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/FirstBackupTests.swift
+/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/IncrementalBackupTests.swift
+/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/InterruptionTests.swift
+/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/LibimobiledeviceEngineTests.swift
+/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/LocalizationTests.swift
+/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/OriginSnapshotTests.swift
+/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/PerDeviceDestinationTests.swift
+/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/PowerAssertionTests.swift
+/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/ProcessRunnerTests.swift
+/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/ProgressParserTests.swift
+/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/RestoreTests.swift
+/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/StagingAreaTests.swift
+/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/StateStoreTests.swift
+/Users/tva/projetos/iphonebackup/Tests/PhoneVaultCoreTests/Support/TestSupport.swift
+/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultCoreTests.build/DerivedSources/resource_bundle_accessor.swift

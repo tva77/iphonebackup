@@ -1,0 +1,37 @@
+{
+  "": {
+    "dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/release/PhoneVault.build/PhoneVault.d",
+    "object": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/release/PhoneVault.build/PhoneVault.o",
+    "swift-dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/release/PhoneVault.build/master.swiftdeps"
+  },
+  "/Users/tva/projetos/iphonebackup/Sources/PhoneVault/AppModel.swift": {
+    "object": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/release/PhoneVault.build/AppModel.swift.o",
+    "swiftmodule": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/release/PhoneVault.build/AppModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/release/PhoneVault.build/AppModel.swiftdeps",
+    "diagnostics": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/release/PhoneVault.build/AppModel.dia"
+  },
+  "/Users/tva/projetos/iphonebackup/Sources/PhoneVault/PhoneVaultApp.swift": {
+    "object": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/release/PhoneVault.build/PhoneVaultApp.swift.o",
+    "swiftmodule": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/release/PhoneVault.build/PhoneVaultApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/release/PhoneVault.build/PhoneVaultApp.swiftdeps",
+    "diagnostics": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/release/PhoneVault.build/PhoneVaultApp.dia"
+  },
+  "/Users/tva/projetos/iphonebackup/Sources/PhoneVault/Views/BackupProgressView.swift": {
+    "object": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/release/PhoneVault.build/BackupProgressView.swift.o",
+    "swiftmodule": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/release/PhoneVault.build/BackupProgressView~partial.swiftmodule",
+    "swift-dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/release/PhoneVault.build/BackupProgressView.swiftdeps",
+    "diagnostics": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/release/PhoneVault.build/BackupProgressView.dia"
+  },
+  "/Users/tva/projetos/iphonebackup/Sources/PhoneVault/Views/MainView.swift": {
+    "object": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/release/PhoneVault.build/MainView.swift.o",
+    "swiftmodule": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/release/PhoneVault.build/MainView~partial.swiftmodule",
+    "swift-dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/release/PhoneVault.build/MainView.swiftdeps",
+    "diagnostics": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/release/PhoneVault.build/MainView.dia"
+  },
+  "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/release/PhoneVault.build/DerivedSources/resource_bundle_accessor.swift": {
+    "object": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/release/PhoneVault.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/release/PhoneVault.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/release/PhoneVault.build/resource_bundle_accessor.swiftdeps",
+    "diagnostics": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/release/PhoneVault.build/resource_bundle_accessor.dia"
+  }
+}

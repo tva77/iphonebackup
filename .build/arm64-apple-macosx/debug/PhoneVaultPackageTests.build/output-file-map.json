@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultPackageTests.build/master.swiftdeps"
+  },
+  "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultPackageTests.derived/runner.swift": {
+    "dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultPackageTests.build/runner.d",
+    "object": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultPackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultPackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultPackageTests.build/runner.swiftdeps",
+    "diagnostics": "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/debug/PhoneVaultPackageTests.build/runner.dia"
+  }
+}

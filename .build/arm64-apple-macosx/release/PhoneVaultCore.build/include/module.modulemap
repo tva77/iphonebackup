@@ -1,0 +1,3 @@
+module PhoneVaultCore {
+    header "/Users/tva/projetos/iphonebackup/.build/arm64-apple-macosx/release/PhoneVaultCore.build/include/PhoneVaultCore-Swift.h"
+}
